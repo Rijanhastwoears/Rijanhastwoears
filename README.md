@@ -86,6 +86,16 @@ It gave
 
 **Not too bad.**
 
+When I asked it to give me some cryptic poetry, it gave me this:
+
+7 Falcons Quickly Soar In Blue Jets
+
+6 Jaguars 5 4 Old Jungle New X Trails
+
+3 Camels Just Drank 6 5 Hot Zephyrs
+
+Lone Zebus Drift South West At 2 Eves
+
 </details>
 
 <!-- Recent Activity -->
@@ -93,19 +103,3 @@ It gave
   <h2>🔥 Recent Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijanhastwoears&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
-# Can a machine write poetry?  
-
-When I asked Claude 3.7 to generate something similar to Fernando pessoa's
- 
-
-*I asked for very little from life, and even this little was denied me. A nearby field, a ray of sunlight, a little bit of calm along with a bit of bread, not to feel oppressed by the knowledge that I exist, not to demand anything from others, and not to have others demand anything from me - this was denied me, like the spare change we might deny a beggar not because we're mean-hearted but because we don't feel like unbuttoning our coat.*
-
-It gave
-
-*I'll try to write something that captures a similar contemplative, melancholic beauty:*
-
-*The world offers its abundance in whispers, not shouts. I stood at the edge of evening, watching light dissolve into shadow, and wondered why simplicity remains the most elusive treasure. To sit beneath an aging tree, to feel the press of bark against spine, to breathe without the weight of tomorrow's expectations—these modest hopes slipped through my fingers like water. Not because they were impossible dreams, but because in pursuing them, I transformed their nature. The silence I sought became another noise I couldn't quiet. The peace I chased remained three steps ahead, glancing back occasionally with something like pity. Not because the universe is cruel, but because it simply continues its ancient turning, indifferent to my small desires, the way we might walk past a fallen leaf without noticing its perfect, temporary symmetry.*
-
-**Not too bad.**
-
